@@ -27,7 +27,7 @@ export default AppHeader
 
 
 const MainHeaderContainer = styled.div`
-    background: #6D6E6F;
+    background: #6018A2D;
     margins: 40px;
     display: flex;
     flex-direction: column;
